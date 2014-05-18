@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineConsole", "VendingMachineConsole\VendingMachineConsole.csproj", "{7A9587EA-47BA-4CB7-8F63-9BB7ABACB1DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineTests", "VendingMachineConsoleTests\VendingMachineTests.csproj", "{7F1A6AF3-BB61-40C9-839C-71AF90CFFF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9587EA-47BA-4CB7-8F63-9BB7ABACB1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9587EA-47BA-4CB7-8F63-9BB7ABACB1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9587EA-47BA-4CB7-8F63-9BB7ABACB1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9587EA-47BA-4CB7-8F63-9BB7ABACB1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1A6AF3-BB61-40C9-839C-71AF90CFFF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1A6AF3-BB61-40C9-839C-71AF90CFFF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1A6AF3-BB61-40C9-839C-71AF90CFFF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1A6AF3-BB61-40C9-839C-71AF90CFFF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
